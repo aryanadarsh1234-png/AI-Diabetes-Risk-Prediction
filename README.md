@@ -35,15 +35,6 @@ CDC BRFSS 2015 Diabetes Health Indicators Dataset
 
 ---
 
-## Model
-
-Random Forest Classifier
-
-Accuracy: 84.9%
-
-ROC-AUC: 0.80
-
----
 
 ## Installation
 
