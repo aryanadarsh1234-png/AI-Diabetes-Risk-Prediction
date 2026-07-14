@@ -18,14 +18,7 @@
 - Training set: 80% of data (~200,000 samples)
 - Test set: 20% of data (~50,000 samples)
 
-## Evaluation Results
-| Metric    | Score  |
-|-----------|--------|
-| Accuracy  | ~85%   |
-| Precision | ~62%   |
-| Recall    | ~10%   |
-| F1-Score  | ~17%   |
-| ROC-AUC   | ~0.8  |
+
 
 
 
